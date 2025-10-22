@@ -2,6 +2,8 @@
 
 A simple **GroupMe bot** built with **Python, Flask, and ngrok** that listens for messages in a group chat and logs grocery requests to an Excel file.
 
+# Why?
+While in my college fraternity, I noticed inefficiencies in our weekly grocery ordering process. Our VP of Finance would text the GroupMe an hour before placing the order, asking for requests. This led to a flood of messages in the chat, and many members would forget items they had thought of earlier in the week. To address this, I developed a bot to streamline the process and ensure everyone’s requests were captured efficiently.
 ## 🚀 Features
 
 - Listens for GroupMe messages using a webhook  
