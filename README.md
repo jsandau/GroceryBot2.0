@@ -8,9 +8,13 @@ While in my college fraternity, I noticed inefficiencies in our weekly grocery o
 ## 🚀Features
 
 **Automated Request Logging:** Captures grocery item requests via GroupMe Bot or through *population.py* to simulate weekly grocery requests.   
+
 **SQL Database Integration:** Stores weekly item counts and stock status.   
+
 **Predictive Forecasting:** Uses six weeks of data to flag and estimate upcoming needs.    
+
 **Tableau Visualization:** Displays trends in item demand, stock status, and predicted orders.   
+
 **Data Export:** Weekly reports are saved as .csv for use in Tableau or other analytics tools.   
 
 ---   
