@@ -4,9 +4,9 @@ import numpy as np
 from datetime import datetime, timedelta
 import random
 
-# -----------------------
+
 # PostgreSQL Connection
-# -----------------------
+
 conn = psycopg2.connect(
     dbname="grocerybot",
     user="postgres",
@@ -15,14 +15,13 @@ conn = psycopg2.connect(
 )
 cur = conn.cursor()
 
-# -----------------------
 # Users
-# -----------------------
+
 users = [f"User_{i}" for i in range(1, 16)]
 
-# -----------------------
+
 # Items with realistic weights
-# -----------------------
+
 items = [
     ("frozen berries", 0.03),
     ("everything bagels", 0.02),
@@ -86,9 +85,9 @@ items = [
 
 item_names, weights = zip(*items)
 
-# -----------------------
+
 # Generate 6 weeks of data
-# -----------------------
+
 start_date = datetime(2025, 9, 1)
 weeks = [start_date + timedelta(weeks=i) for i in range(6)]
 
@@ -115,18 +114,18 @@ for week_start in weeks:
             if random.random() < 0.1:
                 out_of_data.append((timestamp, user, item))
 
-# -----------------------
+
 # Insert into grocery_requests
-# -----------------------
+
 insert_query = """
 INSERT INTO grocery_requests (timestamp, name, item_name, quantity)
 VALUES (%s, %s, %s, %s)
 """
 cur.executemany(insert_query, requests_data)
 
-# -----------------------
+
 # Insert into out_of_db
-# -----------------------
+
 insert_out_of = """
 INSERT INTO out_of_db (timestamp, name, out_of)
 VALUES (%s, %s, %s)
@@ -137,4 +136,4 @@ conn.commit()
 cur.close()
 conn.close()
 
-print(f"✅ Inserted {len(requests_data)} requests and {len(out_of_data)} out-of-stock records.")
+print(f"Inserted {len(requests_data)} requests and {len(out_of_data)} out-of-stock records.")
