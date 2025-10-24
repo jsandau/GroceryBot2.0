@@ -37,7 +37,7 @@ A forecast script analyzes weekly quantities and generates a predicted column.
 Results are exported to CSV and uploaded to Tableau for dashboard visualization.
 
 📊 Tableau Dashboard
-
+(Dashboard)[https://public.tableau.com/views/GroceryBotData/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 The dashboard highlights:
 
 Item trends over time
