@@ -23,9 +23,9 @@ While in my college fraternity, I noticed inefficiencies in our weekly grocery o
 
 **Languages:** Python   
 **Frameworks:** Flask   
-**Database:** PostgreSQL
-**Libraries:** numpy, pandas, scikit-learn, SQLAlchemy  
-**Visualization:** Tableau (connected via CSV extracts)   
+**Database:** PostgreSQL   
+**Libraries:** numpy, pandas, scikit-learn, SQLAlchemy    
+**Visualization:** Tableau (connected via CSV extracts)    
 
 ---   
 
