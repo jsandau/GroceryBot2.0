@@ -30,11 +30,15 @@ While in my college fraternity, I noticed inefficiencies in our weekly grocery o
 ---   
 
 ## 📈 Workflow   
-Grocery requests are logged by the bot or entered manually through populate.py.   
-Data is stored in PostgreSQL (grocery_requests and out_of_db).   
-A forecasting script analyzes weekly quantities and generates predicted quantities.   
-Results are exported to CSV (tableau_grocery_db_only.csv).   
-CSV files are uploaded to Tableau for dashboard visualization.   
+1. Grocery requests are logged by the bot or entered manually through populate.py.   
+
+2. Data is stored in PostgreSQL (grocery_requests and out_of_db).   
+
+3. forecasting script analyzes weekly quantities and generates predicted quantities.   
+
+4. Results are exported to CSV (tableau_grocery_db_only.csv).   
+
+5. CSV files are uploaded to Tableau for dashboard visualization.   
 
 ---   
 
