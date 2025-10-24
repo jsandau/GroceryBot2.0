@@ -58,8 +58,8 @@ While in my college fraternity, I noticed inefficiencies in our weekly grocery o
 
 ---   
 
-## 👨‍💻 Author
-Jacob Sandau
-University of Minnesota
-📬 LinkedIn: [https://www.linkedin.com/in/jacob-sandau-204743233/]
+## 👨‍💻 Author   
+Jacob Sandau    
+University of Minnesota    
+📬 LinkedIn: [https://www.linkedin.com/in/jacob-sandau-204743233/]    
 📧 Email: jsandau@sandau.com
