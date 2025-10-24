@@ -1,0 +1,295 @@
+week_start,item_name,quantity,was_out_of_stock,predicted
+9/1/2025,apples,5,TRUE,FALSE
+9/8/2025,apples,3,TRUE,FALSE
+9/22/2025,apples,8,TRUE,FALSE
+9/29/2025,apples,4,TRUE,FALSE
+10/6/2025,apples,10,TRUE,FALSE
+10/13/2025,apples,11,TRUE,TRUE
+9/1/2025,avocados,6,TRUE,FALSE
+9/8/2025,avocados,7,TRUE,FALSE
+9/22/2025,avocados,6,TRUE,FALSE
+9/29/2025,avocados,8,TRUE,FALSE
+10/6/2025,avocados,8,TRUE,FALSE
+10/13/2025,avocados,10,TRUE,TRUE
+9/1/2025,baby spinach,3,FALSE,FALSE
+9/22/2025,baby spinach,2,FALSE,FALSE
+10/13/2025,baby spinach,1,FALSE,TRUE
+9/1/2025,bananas,6,TRUE,FALSE
+9/15/2025,bananas,2,TRUE,FALSE
+9/22/2025,bananas,3,TRUE,FALSE
+9/29/2025,bananas,11,TRUE,FALSE
+10/6/2025,bananas,14,TRUE,FALSE
+10/13/2025,bananas,18,TRUE,TRUE
+9/1/2025,barbecue sauce,3,TRUE,FALSE
+9/8/2025,barbecue sauce,2,TRUE,FALSE
+9/15/2025,barbecue sauce,8,TRUE,FALSE
+9/22/2025,barbecue sauce,5,TRUE,FALSE
+9/29/2025,barbecue sauce,11,TRUE,FALSE
+10/6/2025,barbecue sauce,3,TRUE,FALSE
+10/13/2025,barbecue sauce,9,TRUE,TRUE
+9/1/2025,blueberries,1,FALSE,FALSE
+9/8/2025,blueberries,7,FALSE,FALSE
+9/15/2025,blueberries,6,FALSE,FALSE
+9/22/2025,blueberries,1,FALSE,FALSE
+9/29/2025,blueberries,4,FALSE,FALSE
+10/13/2025,blueberries,4,FALSE,TRUE
+9/1/2025,bourbon steak seasoning,5,FALSE,FALSE
+10/13/2025,bourbon steak seasoning,5,FALSE,TRUE
+9/1/2025,chicken breast,8,FALSE,FALSE
+9/15/2025,chicken breast,3,FALSE,FALSE
+9/22/2025,chicken breast,2,FALSE,FALSE
+10/6/2025,chicken breast,5,FALSE,FALSE
+10/13/2025,chicken breast,2,FALSE,TRUE
+9/1/2025,cream cheese,5,FALSE,FALSE
+9/8/2025,cream cheese,9,FALSE,FALSE
+9/29/2025,cream cheese,15,FALSE,FALSE
+10/6/2025,cream cheese,1,FALSE,FALSE
+10/13/2025,cream cheese,6,FALSE,TRUE
+9/1/2025,eggs,1,TRUE,FALSE
+9/8/2025,eggs,6,TRUE,FALSE
+9/15/2025,eggs,6,TRUE,FALSE
+9/29/2025,eggs,1,TRUE,FALSE
+10/13/2025,eggs,4,TRUE,TRUE
+9/1/2025,everything bagels,5,FALSE,FALSE
+9/8/2025,everything bagels,2,FALSE,FALSE
+9/15/2025,everything bagels,5,FALSE,FALSE
+9/22/2025,everything bagels,3,FALSE,FALSE
+10/6/2025,everything bagels,6,FALSE,FALSE
+10/13/2025,everything bagels,5,FALSE,TRUE
+9/1/2025,famous amous cookies,6,TRUE,FALSE
+9/8/2025,famous amous cookies,4,TRUE,FALSE
+9/15/2025,famous amous cookies,4,TRUE,FALSE
+9/22/2025,famous amous cookies,5,TRUE,FALSE
+9/29/2025,famous amous cookies,9,TRUE,FALSE
+10/6/2025,famous amous cookies,3,TRUE,FALSE
+10/13/2025,famous amous cookies,6,TRUE,TRUE
+9/1/2025,garlic,5,FALSE,FALSE
+9/15/2025,garlic,6,FALSE,FALSE
+10/13/2025,garlic,7,FALSE,TRUE
+9/1/2025,granola,9,TRUE,FALSE
+9/8/2025,granola,5,TRUE,FALSE
+9/15/2025,granola,6,TRUE,FALSE
+9/22/2025,granola,7,TRUE,FALSE
+9/29/2025,granola,11,TRUE,FALSE
+10/6/2025,granola,12,TRUE,FALSE
+10/13/2025,granola,14,TRUE,TRUE
+9/1/2025,ground beef,4,TRUE,FALSE
+9/8/2025,ground beef,8,TRUE,FALSE
+9/15/2025,ground beef,3,TRUE,FALSE
+9/22/2025,ground beef,5,TRUE,FALSE
+9/29/2025,ground beef,17,TRUE,FALSE
+10/6/2025,ground beef,8,TRUE,FALSE
+10/13/2025,ground beef,15,TRUE,TRUE
+9/1/2025,honey,3,FALSE,FALSE
+9/8/2025,honey,2,FALSE,FALSE
+9/29/2025,honey,12,FALSE,FALSE
+10/6/2025,honey,3,FALSE,FALSE
+10/13/2025,honey,8,FALSE,TRUE
+9/1/2025,hot sauce,5,FALSE,FALSE
+9/8/2025,hot sauce,1,FALSE,FALSE
+9/15/2025,hot sauce,12,FALSE,FALSE
+9/29/2025,hot sauce,12,FALSE,FALSE
+10/6/2025,hot sauce,2,FALSE,FALSE
+10/13/2025,hot sauce,8,FALSE,TRUE
+9/1/2025,large eggs,4,TRUE,FALSE
+9/8/2025,large eggs,1,TRUE,FALSE
+9/15/2025,large eggs,5,TRUE,FALSE
+9/22/2025,large eggs,11,TRUE,FALSE
+9/29/2025,large eggs,1,TRUE,FALSE
+10/13/2025,large eggs,7,TRUE,TRUE
+9/1/2025,lettuce,5,FALSE,FALSE
+9/15/2025,lettuce,2,FALSE,FALSE
+9/29/2025,lettuce,1,FALSE,FALSE
+10/6/2025,lettuce,4,FALSE,FALSE
+10/13/2025,lettuce,2,FALSE,TRUE
+9/1/2025,mayonnaise,7,TRUE,FALSE
+9/15/2025,mayonnaise,10,TRUE,FALSE
+9/22/2025,mayonnaise,5,TRUE,FALSE
+10/6/2025,mayonnaise,1,TRUE,FALSE
+10/13/2025,mayonnaise,0,TRUE,TRUE
+9/1/2025,non fat milk,7,TRUE,FALSE
+9/8/2025,non fat milk,21,TRUE,FALSE
+9/15/2025,non fat milk,12,TRUE,FALSE
+9/22/2025,non fat milk,23,TRUE,FALSE
+9/29/2025,non fat milk,8,TRUE,FALSE
+10/6/2025,non fat milk,12,TRUE,FALSE
+10/13/2025,non fat milk,16,TRUE,TRUE
+9/1/2025,oatmeal,9,FALSE,FALSE
+9/8/2025,oatmeal,17,FALSE,FALSE
+9/29/2025,oatmeal,9,FALSE,FALSE
+10/6/2025,oatmeal,9,FALSE,FALSE
+10/13/2025,oatmeal,9,FALSE,TRUE
+9/1/2025,orange juice,4,FALSE,FALSE
+9/8/2025,orange juice,5,FALSE,FALSE
+9/22/2025,orange juice,6,FALSE,FALSE
+10/6/2025,orange juice,13,FALSE,FALSE
+10/13/2025,orange juice,14,FALSE,TRUE
+9/1/2025,paper plate,4,FALSE,FALSE
+9/22/2025,paper plate,4,FALSE,FALSE
+10/6/2025,paper plate,7,FALSE,FALSE
+10/13/2025,paper plate,8,FALSE,TRUE
+9/1/2025,paper towels,6,TRUE,FALSE
+9/15/2025,paper towels,1,TRUE,FALSE
+10/6/2025,paper towels,14,TRUE,FALSE
+10/13/2025,paper towels,18,TRUE,TRUE
+9/1/2025,peppers,1,TRUE,FALSE
+9/8/2025,peppers,3,TRUE,FALSE
+9/15/2025,peppers,11,TRUE,FALSE
+9/22/2025,peppers,9,TRUE,FALSE
+9/29/2025,peppers,4,TRUE,FALSE
+10/6/2025,peppers,7,TRUE,FALSE
+10/13/2025,peppers,11,TRUE,TRUE
+9/1/2025,plain bagels,3,TRUE,FALSE
+9/8/2025,plain bagels,5,TRUE,FALSE
+9/15/2025,plain bagels,1,TRUE,FALSE
+9/22/2025,plain bagels,14,TRUE,FALSE
+9/29/2025,plain bagels,3,TRUE,FALSE
+10/13/2025,plain bagels,9,TRUE,TRUE
+9/1/2025,plain greek yogurt,4,TRUE,FALSE
+9/8/2025,plain greek yogurt,14,TRUE,FALSE
+9/15/2025,plain greek yogurt,11,TRUE,FALSE
+9/22/2025,plain greek yogurt,2,TRUE,FALSE
+9/29/2025,plain greek yogurt,4,TRUE,FALSE
+10/6/2025,plain greek yogurt,2,TRUE,FALSE
+10/13/2025,plain greek yogurt,2,TRUE,TRUE
+9/1/2025,popcorn,5,FALSE,FALSE
+9/8/2025,popcorn,3,FALSE,FALSE
+9/29/2025,popcorn,2,FALSE,FALSE
+10/6/2025,popcorn,2,FALSE,FALSE
+10/13/2025,popcorn,1,FALSE,TRUE
+9/1/2025,potato chips,9,TRUE,FALSE
+9/8/2025,potato chips,22,TRUE,FALSE
+9/15/2025,potato chips,6,TRUE,FALSE
+9/22/2025,potato chips,6,TRUE,FALSE
+9/29/2025,potato chips,9,TRUE,FALSE
+10/6/2025,potato chips,6,TRUE,FALSE
+10/13/2025,potato chips,5,TRUE,TRUE
+9/1/2025,potatoes,5,TRUE,FALSE
+9/15/2025,potatoes,6,TRUE,FALSE
+9/22/2025,potatoes,6,TRUE,FALSE
+9/29/2025,potatoes,2,TRUE,FALSE
+10/6/2025,potatoes,3,TRUE,FALSE
+10/13/2025,potatoes,2,TRUE,TRUE
+9/1/2025,ranch dressing,4,TRUE,FALSE
+9/8/2025,ranch dressing,4,TRUE,FALSE
+10/6/2025,ranch dressing,1,TRUE,FALSE
+10/13/2025,ranch dressing,0,TRUE,TRUE
+9/1/2025,raspberries,8,TRUE,FALSE
+9/15/2025,raspberries,5,TRUE,FALSE
+9/29/2025,raspberries,9,TRUE,FALSE
+10/13/2025,raspberries,10,TRUE,TRUE
+9/1/2025,reduced fat milk,5,TRUE,FALSE
+9/8/2025,reduced fat milk,7,TRUE,FALSE
+9/15/2025,reduced fat milk,4,TRUE,FALSE
+9/22/2025,reduced fat milk,3,TRUE,FALSE
+10/6/2025,reduced fat milk,9,TRUE,FALSE
+10/13/2025,reduced fat milk,8,TRUE,TRUE
+9/1/2025,salsa,2,TRUE,FALSE
+9/22/2025,salsa,1,TRUE,FALSE
+10/6/2025,salsa,2,TRUE,FALSE
+10/13/2025,salsa,2,TRUE,TRUE
+9/1/2025,strawberries,7,TRUE,FALSE
+9/8/2025,strawberries,8,TRUE,FALSE
+9/15/2025,strawberries,3,TRUE,FALSE
+9/22/2025,strawberries,2,TRUE,FALSE
+9/29/2025,strawberries,17,TRUE,FALSE
+10/6/2025,strawberries,3,TRUE,FALSE
+10/13/2025,strawberries,9,TRUE,TRUE
+9/1/2025,thai jasmine rice,4,FALSE,FALSE
+10/6/2025,thai jasmine rice,1,FALSE,FALSE
+10/13/2025,thai jasmine rice,0,FALSE,TRUE
+9/1/2025,toilet paper,4,FALSE,FALSE
+9/15/2025,toilet paper,8,FALSE,FALSE
+9/22/2025,toilet paper,2,FALSE,FALSE
+9/29/2025,toilet paper,3,FALSE,FALSE
+10/6/2025,toilet paper,1,FALSE,FALSE
+10/13/2025,toilet paper,0,FALSE,TRUE
+9/1/2025,tortillas,8,FALSE,FALSE
+9/8/2025,tortillas,6,FALSE,FALSE
+9/15/2025,tortillas,7,FALSE,FALSE
+9/22/2025,tortillas,3,FALSE,FALSE
+9/29/2025,tortillas,1,FALSE,FALSE
+10/6/2025,tortillas,11,FALSE,FALSE
+10/13/2025,tortillas,6,FALSE,TRUE
+9/1/2025,trash bags,8,TRUE,FALSE
+9/8/2025,trash bags,1,TRUE,FALSE
+9/22/2025,trash bags,5,TRUE,FALSE
+10/13/2025,trash bags,2,TRUE,TRUE
+9/1/2025,vanilla greek yogurt,14,FALSE,FALSE
+9/8/2025,vanilla greek yogurt,6,FALSE,FALSE
+9/15/2025,vanilla greek yogurt,9,FALSE,FALSE
+9/22/2025,vanilla greek yogurt,3,FALSE,FALSE
+10/6/2025,vanilla greek yogurt,11,FALSE,FALSE
+10/13/2025,vanilla greek yogurt,6,FALSE,TRUE
+9/1/2025,white bread,7,TRUE,FALSE
+9/22/2025,white bread,1,TRUE,FALSE
+9/29/2025,white bread,4,TRUE,FALSE
+10/6/2025,white bread,2,TRUE,FALSE
+10/13/2025,white bread,1,TRUE,TRUE
+9/1/2025,whole milk,6,TRUE,FALSE
+9/8/2025,whole milk,6,TRUE,FALSE
+9/15/2025,whole milk,8,TRUE,FALSE
+9/22/2025,whole milk,14,TRUE,FALSE
+9/29/2025,whole milk,2,TRUE,FALSE
+10/6/2025,whole milk,4,TRUE,FALSE
+10/13/2025,whole milk,6,TRUE,TRUE
+9/8/2025,butter,3,TRUE,FALSE
+9/15/2025,butter,1,TRUE,FALSE
+10/6/2025,butter,8,TRUE,FALSE
+10/13/2025,butter,11,TRUE,TRUE
+9/8/2025,cereal,6,FALSE,FALSE
+10/6/2025,cereal,7,FALSE,FALSE
+10/13/2025,cereal,8,FALSE,TRUE
+9/8/2025,cheese,7,FALSE,FALSE
+9/15/2025,cheese,1,FALSE,FALSE
+9/22/2025,cheese,2,FALSE,FALSE
+9/29/2025,cheese,12,FALSE,FALSE
+10/6/2025,cheese,2,FALSE,FALSE
+10/13/2025,cheese,5,FALSE,TRUE
+9/8/2025,chicken nuggets,1,TRUE,FALSE
+9/15/2025,chicken nuggets,5,TRUE,FALSE
+9/22/2025,chicken nuggets,6,TRUE,FALSE
+9/29/2025,chicken nuggets,6,TRUE,FALSE
+10/13/2025,chicken nuggets,10,TRUE,TRUE
+9/8/2025,frozen berries,1,TRUE,FALSE
+9/15/2025,frozen berries,1,TRUE,FALSE
+9/22/2025,frozen berries,13,TRUE,FALSE
+9/29/2025,frozen berries,3,TRUE,FALSE
+10/13/2025,frozen berries,11,TRUE,TRUE
+9/8/2025,limes,10,TRUE,FALSE
+9/15/2025,limes,5,TRUE,FALSE
+9/22/2025,limes,5,TRUE,FALSE
+9/29/2025,limes,2,TRUE,FALSE
+10/6/2025,limes,5,TRUE,FALSE
+10/13/2025,limes,2,TRUE,TRUE
+9/8/2025,oil spray,5,TRUE,FALSE
+9/15/2025,oil spray,3,TRUE,FALSE
+9/22/2025,oil spray,4,TRUE,FALSE
+9/29/2025,oil spray,1,TRUE,FALSE
+10/6/2025,oil spray,4,TRUE,FALSE
+10/13/2025,oil spray,3,TRUE,TRUE
+9/8/2025,red solo cup,2,FALSE,FALSE
+9/15/2025,red solo cup,2,FALSE,FALSE
+9/22/2025,red solo cup,3,FALSE,FALSE
+9/29/2025,red solo cup,1,FALSE,FALSE
+10/6/2025,red solo cup,6,FALSE,FALSE
+10/13/2025,red solo cup,5,FALSE,TRUE
+9/15/2025,bacon,17,TRUE,FALSE
+9/22/2025,bacon,1,TRUE,FALSE
+9/29/2025,bacon,7,TRUE,FALSE
+10/6/2025,bacon,8,TRUE,FALSE
+10/13/2025,bacon,4,TRUE,TRUE
+9/15/2025,coffee grounds,12,FALSE,FALSE
+9/22/2025,coffee grounds,3,FALSE,FALSE
+9/29/2025,coffee grounds,2,FALSE,FALSE
+10/13/2025,coffee grounds,0,FALSE,TRUE
+9/15/2025,paper bowl,4,FALSE,FALSE
+9/22/2025,paper bowl,5,FALSE,FALSE
+10/6/2025,paper bowl,4,FALSE,FALSE
+10/13/2025,paper bowl,4,FALSE,TRUE
+9/15/2025,soap,3,FALSE,FALSE
+9/22/2025,soap,5,FALSE,FALSE
+10/6/2025,soap,1,FALSE,FALSE
+10/13/2025,soap,1,FALSE,TRUE
+9/29/2025,forks,1,FALSE,FALSE
+10/13/2025,forks,1,FALSE,TRUE
