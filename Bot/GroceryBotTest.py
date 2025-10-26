@@ -5,10 +5,9 @@ import os
 import psycopg2
 from datetime import datetime
 
-# creates a flask web app
+# creates flask web app
 app = Flask(__name__)
 
-# id of bot
 BOT_ID = "a1c844f53a769f6f76063c6e5b"
 
 # Function to save a request to PostgreSQL database
@@ -81,7 +80,7 @@ def webhook():
         elif msg.startswith("!request"):
             info = msg.replace("!request", "").strip()
             
-            # Save to database
+            # Saves to database
             save_request_to_db(timestamp, sender, info)
             send_message(f"{info} added to the grocery list.")
     return "ok", 200
