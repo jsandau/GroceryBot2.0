@@ -3,7 +3,7 @@
 A lightweight **Python + Flask application** that tracks weekly grocery requests, stores them in a **SQL database**, and generates forecasts for inventory and ordering. Data is exported to CSV for visualization in **Tableau dashboards**.  
 
 # Why?
-While in my college fraternity, I noticed inefficiencies in our weekly grocery ordering process. Our VP of Finance would text the GroupMe an hour before placing the order, asking for requests. This led to a flood of messages in the chat, and many members would forget items they had thought of earlier in the week. To address this, I developed a bot to streamline the process and ensure everyone’s requests were captured. To take it a step further, I added a simple prediction system that uses historical data to estimate how much of each item we’ll need in upcoming weeks. This helps avoid over-ordering or running out of popular items, making the ordering process more efficient and reducing waste.
+While in my college fraternity, I noticed inefficiencies in our weekly grocery ordering process. Our VP of Finance would text the GroupMe an hour before placing the order, asking for requests. This led to a flood of messages in the chat, and many members would forget items they had thought of earlier in the week. To address this, I developed a bot to streamline the process and ensure everyone’s requests were captured. To take it a step further, I added a simple prediction system that uses historical data to estimate how many requests are expected in upcoming weeks. This helps avoid over-ordering or running out of popular items, making the ordering process more efficient and reducing waste.
 
 ## 🚀Features
 
