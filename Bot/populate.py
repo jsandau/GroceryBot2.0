@@ -15,12 +15,10 @@ conn = psycopg2.connect(
 )
 cur = conn.cursor()
 
-# Users
-
 users = [f"User_{i}" for i in range(1, 16)]
 
 
-# Items with realistic weights
+# Items with weights
 
 items = [
     ("frozen berries", 0.03),
